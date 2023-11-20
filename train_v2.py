@@ -38,7 +38,6 @@ except KeyError:
         world_size=world_size,
     )
 
-
 def main(args):
 
     # get config
